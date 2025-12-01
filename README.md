@@ -53,44 +53,6 @@
 
 ---
 
-## 🔥 Highlight Projects
-
-> 💡 Projects that combine **AI + Web + Real-World Impact**
-
-### 🧠 Emotion & Sentiment Analysis (NLP)
-- Detects **30+ emotions & sentiment**  
-- Built using **Python, BERT, Streamlit, HuggingFace**
-- Supports **multilingual emotion detection**
-- Includes **interactive visualizations**
-
-<p>
-  🔗 <a href="https://github.com/sriramya1105/Emotion-Analysis"><b>View on GitHub</b></a>
-</p>
-
----
-
-### 📰 InsightFlow – AI-Driven News & Query Companion
-- Extracts & analyzes **URL content using LLMs**
-- Interactive **chat-style AI companion**
-- Built with **Django + LangChain + Groq LLM + JS**
-- Includes **AI Memory Bank & smart Q/A**
-
-<p>
-  🔗 <a href="https://github.com/sriramya1105/Insightflow"><b>View on GitHub</b></a>
-</p>
-
----
-
-### 🍱 TiffinBites – Food Delivery Website
-- Clean & simple **food ordering UI**
-- Features menu browsing, filter & cart
-- Built using **HTML, CSS, JavaScript**
-
-<p>
-  🔗 <a href="https://github.com/sriramya1105/TiffinBites"><b>View on GitHub</b></a>
-</p>
-
----
 
 ## 💼 Experience & Internships
 
