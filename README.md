@@ -64,7 +64,7 @@
 - Includes **interactive visualizations**
 
 <p>
-  🔗 <a href="https://github.com/sriramya1105/Emotion-Analysis"></a>
+  🔗 <a href="https://github.com/sriramya1105/Emotion-Analysis"><b>View on GitHub</b></a>
 </p>
 
 ---
@@ -76,7 +76,7 @@
 - Includes **AI Memory Bank & smart Q/A**
 
 <p>
-  🔗 <a href="https://github.com/sriramya1105/Insightflow"><</a>
+  🔗 <a href="https://github.com/sriramya1105/Insightflow"><b>View on GitHub</b></a>
 </p>
 
 ---
@@ -87,7 +87,7 @@
 - Built using **HTML, CSS, JavaScript**
 
 <p>
-  🔗 <a href="https://github.com/sriramya1105/TiffinBites"></a>
+  🔗 <a href="https://github.com/sriramya1105/TiffinBites"><b>View on GitHub</b></a>
 </p>
 
 ---
