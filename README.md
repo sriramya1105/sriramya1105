@@ -103,11 +103,6 @@
 - Built an **AI chatbot for e-commerce**
 - Worked with **TensorFlow, scikit-learn & NLP**
 - Deployed using Streamlit
-
-### 📊 Data Science Intern — *TechnoHackers*
-- Performed **data analysis & ML workflows**
-- Focused on evaluation & model improvement
-
 ---
 
 ## 📊 GitHub Stats
