@@ -1,120 +1,177 @@
-<!-- Header Section -->
-<h1 align="center">Hi 👋, I'm K Sri Ramya</h1>
-<h3 align="center">Full Stack Developer | software Engineer | Building Smart Web Experiences</h3>
+<!-- ================= HEADER ================= -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=K%20Sri%20Ramya&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20%26%20AI%20Developer&descAlignY=55&descSize=18"/>
+
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+Zenkara+Tech+Services;Full+Stack+%7C+React+Native+%7C+Java+REST+APIs;AI+%26+NLP+Engineer+%F0%9F%A4%96;Building+Emotion-Aware+Intelligent+Systems+%F0%9F%9A%80" />
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%92%BB;+I+love+building+real-world+AI-powered+apps+%F0%9F%9A%80;Let's+turn+ideas+into+impactful+solutions+%F0%9F%8C%9F" />
+  <a href="mailto:sriramyak684@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/k-sri-ramya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://ksriramya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sriramya1105&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Learning Animation"/> 
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Innovation Animation"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+</div>
 
 ---
 
-## 💫 About Me
+## 👩‍💻 About Me
 
-- 🎓 **B.Tech Graduate in Artificial Intelligence & Machine Learning (AIML)**
-- 💻 Currently training as a **Java Full Stack Developer @ J Spiders**
-- 🤖 Passionate about **java, NLP, Sentiment & Emotion Analysis, and AI-driven apps**
-- 🌐 Love building **user-friendly web UIs and mobile applications**
-- 🚀 Exploring **LLMs, Django, React, LangChain & Groq**
-- 🎯 Goal: Become a **versatile developer and make a project by using java and AI** who builds solutions that help people 
-
----
-
-## 🛠 Tech Stack & Tools
-
-### 💻 Programming & Scripting
-<p align="start">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react" />
-</p>
-
-### 🧠 AI / ML / Data
-<p align="start">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/Scikit--learn-FAAF3A?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-Transformers-6b46c1?style=for-the-badge" />
-</p>
-
-### 🧩 Backend, DB & Frameworks
-<p align="start">
-  <img src="https://skillicons.dev/icons?i=django,mysql,postgres,sqlite" />
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-AI-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-LLM-black?style=for-the-badge" />
-</p>
-
-### 🧰 Dev Tools & Others
-<p align="start">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning**
+- 💼 **Software Engineer @ Zenkara Tech Services (Hyderabad)** — *5+ months*
+- 📱 Building **cross-platform mobile apps** using React Native
+- ⚙️ Integrating **enterprise Java REST APIs**
+- 🤖 Specialized in **Emotion-based AI, NLP & LLM-powered apps**
+- 🎯 Goal: Build **intelligent systems that understand people, not just data**
 
 ---
 
+## 💼 Work Experience
 
-## 💼 Experience & Internships
+### 🧑‍💻 Software Engineer  
+**Zenkara Tech Services Pvt. Ltd.** — Hyderabad, India  
+📅 *October 2025 – Present*
 
-### 🧑‍💻 Python Developer Intern — *Wexdi Software Services*
-- Built a domain-specific **appointment bot** with Django  
-- Integrated REST APIs & crafted responsive UI  
-- Applied NLP for smart user responses  
+- Contributing to the **end-to-end development** of a cross-platform mobile application using **React Native**
+- Building **high-performance, adaptive UI components** for multiple devices
+- Integrating frontend with **enterprise-grade Java REST APIs**
+- Managing **state, caching, and client-side optimizations**
+- Collaborating with backend & product teams on **core business logic**
 
-### 🤖 Machine Learning Intern — *MachIt*
-- Built an **AI chatbot for e-commerce**
-- Worked with **TensorFlow, scikit-learn & NLP**
-- Deployed using Streamlit
+---
+
+### 🧑‍💻 Python Developer Intern  
+**Wexdi Software Services Pvt. Ltd.** — *Mar 2025 – May 2025*
+
+- Worked on **Django-based web applications**
+- Implemented **domain-specific intelligent responses**
+- Assisted in coding, debugging, and testing phases
+- Improved application performance and stability
+
+---
+
+## 🚀 Flagship Projects
+
+### 📰 InsightFlow – AI-Powered URL Analyzer
+**AI platform for real-time content understanding & intelligent querying**
+
+- Analyzes **any URL** (news or general web)
+- Multilingual **Chat Companion + AI Memory Bank**
+- Semantic search using **FAISS vector embeddings**
+- Clean **ChatGPT-style UI**
+
+**Tech:** Django, LangChain, HuggingFace, FAISS, HTML, CSS, JS
+
+---
+
+### 🧠 Multilingual Emotion-Based Sentiment Analysis
+**Advanced NLP system for emotion intelligence**
+
+- Supports **30+ emotions**
+- Multilingual sentiment detection
+- Achieved **high accuracy across diverse datasets**
+- Interactive dashboard for emotion trends
+
+**Tech:** Streamlit, Transformers, Scikit-learn
+
+---
+
+### 🍱 Tiffin Bytes – Smart Food Ordering Platform
+**Real-world service-based full stack application**
+
+- Designed for local tiffin & food services
+- Backend logic for users, orders & services
+- Focused on usability and scalability
+
+**Tech:** Java / Django, MySQL, Frontend Stack
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css,tailwind,reactnative"/>
+</p>
+
+### 🧠 AI / NLP
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow"/>
+  <img src="https://img.shields.io/badge/Transformers-NLP-6b46c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-LLM-blueviolet?style=for-the-badge"/>
+</p>
+
+### ⚙️ Backend & DB
+<p>
+  <img src="https://skillicons.dev/icons?i=django,spring,mysql,postgres,sqlite"/>
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sriramya1105&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=00E5FF&currStreakLabel=00E5FF&sideLabels=FFB800&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sriramya1105&show_icons=true&theme=radical&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sriramya1105&theme=radical&hide_border=true"/>
 </p>
-
----
-
-## 🌱 What I’m Working On
-
-- 🚀 Java Full Stack — Spring, REST, Databases  
-- 🤖 LLMs, LangChain, RAG, production-level AI  
-- 🎨 Improving UI/UX to build smooth modern experiences  
-
----
-
-## 🎀 A Bit More About Me
-
-- 💡 Turn ideas into working prototypes  
-- 🧩 Break complex tasks into simple flows  
-- 🧠 Passionate about **NLP & emotion-driven AI**  
-- 🌸 Always learning, always improving  
-
----
-### 🌟 Daily Quote 
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?quote=Believe%20you%20can%20and%20you're%20halfway%20there.&author=Theodore%20Roosevelt&theme=dark" alt="Daily Quote"/>
-</p>
-
-
----
-
-## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:sriramyak684@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/k-sri-ramya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://sriramyaportfolio1105.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sriramya1105&theme=react-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramya1105&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
+## 🏆 Achievements & Certifications
+
+- 📄 **Paper Presentation:** *Real-Time Knowledge Access Using LLMs & Web Tech* — ASCIS 2025
+- 🧑‍💻 **Java Full Stack Training** — J Spiders
+- 📊 **Python for Data Science** — NPTEL
+- 🤖 **Machine Learning Certification** — MachIT
+- 🥈 **Hackathon Runner-up** — Brain O Vision (2022)
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced **Spring Boot & REST APIs**
+- **RAG systems & AI agents**
+- Scalable AI architectures
+- UI/UX for AI-driven products
+
+---
+
+## 🤝 Let’s Connect
+
 <p align="center">
-  <i>✨ If you like my work, please ⭐ my repositories — it motivates me to build more! ✨</i>
+  <a href="mailto:sriramyak684@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/k-sri-ramya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://ksriramya.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+```java
+while (alive) {
+    learn();
+    build();
+    improve();
+    repeat();
+}
